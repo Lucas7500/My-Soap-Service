@@ -52,7 +52,7 @@ Os serviços SOAP estão disponíveis nos seguintes endpoints:
 - Validar CNPJ
 ---
 
-## ▶️ Como executar
+## Como executar
 
 1. Compile o projeto com `dotnet build`
 2. Execute com `dotnet run` (ou direto pela IDE)
